@@ -2,7 +2,7 @@
 
 #### **Computer Engineering Student** 
 
-Back End Developer 
+Backend developer focused on APIs, automation and practical projects with Python/FastAPI.
 
 ## 🛠️ Tech Stack
 
@@ -41,6 +41,22 @@ Back End Developer
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Cadu9916&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cadu9916&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Cadu9916&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cadu9916&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
 ## 🔗 Where to find me
 
 <p align="left">
