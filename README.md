@@ -34,7 +34,7 @@ Backend developer focused on APIs, automation and practical projects with Python
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![KiCad](https://camo.githubusercontent.com/695252e6eccadd833348d0d3645cb213f616db7552b0e2b748dd0ef5b0e6bcec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6b696361642d2532333331344342302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6b69636164266c6f676f436f6c6f723d7768697465)
 
-### DevOps & Tools
+### Tools
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![Git](https://camo.githubusercontent.com/18c1d28951104e3dbf342dcaae38b07f65c95f0401e5de36aa560f6073db149e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
